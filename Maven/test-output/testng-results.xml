@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[helloooooooooo]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="125" started-at="2018-06-18T10:12:22Z" finished-at="2018-06-18T10:12:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="125" started-at="2018-06-18T10:12:22Z" finished-at="2018-06-18T10:12:22Z">
+      <class name="org.tyss.com.XYZ">
+        <test-method status="PASS" signature="demoTest()[pri:0, instance:org.tyss.com.XYZ@5dfcfece]" name="demoTest" duration-ms="31" started-at="2018-06-18T10:12:22Z" finished-at="2018-06-18T10:12:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[helloooooooooo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+      </class> <!-- org.tyss.com.XYZ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
